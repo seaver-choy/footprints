@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>865751849787-aa0bi73b8hfnjp63kjt60job1bfr8uid.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.865751849787-aa0bi73b8hfnjp63kjt60job1bfr8uid</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkT6gLAeLpqEbTla8Bn9bIDKZ7Ok120Ns</string>
+	<key>GCM_SENDER_ID</key>
+	<string>865751849787</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Footprints</string>
+	<key>PROJECT_ID</key>
+	<string>footprints-e2c8b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>footprints-e2c8b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:865751849787:ios:fa5c55abf1e3e829cdf51e</string>
+	<key>DATABASE_URL</key>
+	<string>https://footprints-e2c8b.firebaseio.com</string>
+</dict>
+</plist>

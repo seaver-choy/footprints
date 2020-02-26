@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#F9627D</color>
+    <color name="pink_start">#F9627D</color>
+    <color name="pink_end">#DE3855</color>
+    <color name="primary_dark">#F9627D</color>
+    <color name="white">#FFF</color>
+</resources>
